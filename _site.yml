@@ -1,0 +1,7 @@
+name: "Prof. Laurent-Rice Website"
+output_dir: "."
+navbar:
+  title: "Cybersecurity"
+  left:
+    - text: "Home"
+      href: index.html
